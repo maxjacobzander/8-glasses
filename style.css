@@ -13,10 +13,16 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    font-weight: bolder;
+    font-size: large;
 }
 
 .container {
     text-align: center;
+}
+
+.header {
+    font-size: larger;
 }
 
 .water-consumed {
